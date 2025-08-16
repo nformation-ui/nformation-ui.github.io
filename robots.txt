@@ -1,0 +1,7 @@
+# 모든 검색 로봇(네이버, 구글 등)에게 적용
+User-agent: *
+# 어떤 페이지도 막지 않음 (전체 허용)
+Disallow:
+
+# 내 블로그의 지도(사이트맵) 위치를 알려줌
+Sitemap: https://nformation-ui.github.io/sitemap.xml
